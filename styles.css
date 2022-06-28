@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(174, 135, 211);
+}
+
+h1 {
+    background-color: aquamarine;
+    color: brown;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-style: oblique;
+    color: gold;
+}
+
+h3, h4, h4 a {
+    background-color: skyblue;
+    color: green;
+}
+
+.unordered li{
+    color: #770808;
+}
+
+.ordered li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(47, 92, 67);
+    text-shadow: 2px 2px 2px goldenrod;
+}
+
+.ordered li p {
+text-decoration: dotted;
+}
+
+p {
+    text-decoration: overline;
+    color: darkslategrey;
+    text-rendering: optimizeLegibility;
+}
